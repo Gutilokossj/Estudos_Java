@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc28917f-e622-4cc3-9366-b00c1b65ed0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estudos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula1_Classes_Objetos_Atributos_Métodos/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula1_Classes_Objetos_Atributos_Métodos/CarroTestar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula2_Construtores/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula2_Construtores/ProdutoTestar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/ExemploScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/JogoSimulacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/SwitchCasesEstudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3_Modificadores_de_Acesso_Métodos_Get_e_Set/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3_Modificadores_de_Acesso_Métodos_Get_e_Set/AlunoTestar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +38,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlunoTestar.executor": "Run",
     "Application.CarroTestar.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MemeGui.executor": "Run",
     "Application.ProdutoTestar.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gustavo/Desktop/PRATICAR PROGRAMAÇÃO/TREINAR GIT/ESTUDO JAVA/Estudos_Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,6 +76,8 @@
       <workItem from="1717086887622" duration="1973000" />
       <workItem from="1717089669177" duration="1518000" />
       <workItem from="1717091255322" duration="608000" />
+      <workItem from="1717176339817" duration="449000" />
+      <workItem from="1717177540735" duration="1509000" />
     </task>
     <servers />
   </component>
