@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc28917f-e622-4cc3-9366-b00c1b65ed0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aula4_ExemploInterface/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula4_ExemploInterface/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula4_ExemploInterface/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula4_ExemploInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula4_ExemploInterface/Papagaio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estudos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula1_Classes_Objetos_Atributos_Métodos/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula1_Classes_Objetos_Atributos_Métodos/CarroTestar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula2_Construtores/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula2_Construtores/ProdutoTestar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/ExemploScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/JogoSimulacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basico/Estudos/PrimeiroEstudos/SwitchCasesEstudos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +29,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,25 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CarroTestar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MemeGui.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutoTestar.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/programa/Estudos/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CarroTestar.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MemeGui.executor": "Run",
+    "Application.ProdutoTestar.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/programa/Estudos/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,10 +84,7 @@
       <updated>1694562138141</updated>
       <workItem from="1717086887622" duration="1973000" />
       <workItem from="1717089669177" duration="1518000" />
-      <workItem from="1717091255322" duration="872000" />
-      <workItem from="1717171584855" duration="6000" />
-      <workItem from="1717451029405" duration="30000" />
-      <workItem from="1718632394165" duration="1401000" />
+      <workItem from="1717091255322" duration="608000" />
     </task>
     <servers />
   </component>
